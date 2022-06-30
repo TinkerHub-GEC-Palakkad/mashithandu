@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/8a7ace7a514590736e5040aa1d3a22b20380cb47/GEC_Palakkad/res/thubLogo.png"/>
 # Github Workshop
 
 by TinkerHub GEC Palakkad
@@ -14,23 +15,31 @@ Now click on the "Code" and then copy the link.
 
 <img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/cloneCode.png"/>
 
+And copy the link
+
 <img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/clone.png"/>
 
 And then open the terminal and run the command.
 
-``` git clone <copied_url> ```
+``` 
+git clone <copied_url>
+ ```
 
 ## Open the cloned repo's folder
 
 Open the cloned repo's folder using the command
 
-``` cd mashithandu ```
+``` 
+cd mashithandu 
+```
 
 ## Open GEC Palakkad's folder
 
 Open GEC Palakkad's folder using the command
 
-``` cd GEC_Palakkad ```
+``` 
+cd GEC_Palakkad 
+```
 
 ## Add your files
 
@@ -40,14 +49,20 @@ Add some random files to folder. For example create a text file with your name.
 
 Now commit these changes to your  Github repo.
 
-``` git add <filename or *>```
-``` git commit -m "<message>"```
+``` 
+git add <filename or *>
+```
+``` 
+git commit -m "<message>"
+```
 
 ## Pushing the changes
 
 Push the changes to your repo
 
-``` git push ```
+``` 
+git push 
+```
 
 ## Creating Pull request
 
@@ -55,7 +70,7 @@ Go to the repo in your github account.
 
 Click on contribute.
 
-<img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/contribute.png/>
+<img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/contribute.png"/>
 
 And then click on "Open pull request"
 
