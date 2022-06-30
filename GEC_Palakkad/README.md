@@ -1,6 +1,6 @@
 # Github Workshop
 
-## by TinkerHub GEC Palakkad
+by TinkerHub GEC Palakkad
 
 ## Forking this repo
 
