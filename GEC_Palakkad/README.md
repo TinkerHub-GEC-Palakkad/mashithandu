@@ -1,23 +1,28 @@
-<img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/8a7ace7a514590736e5040aa1d3a22b20380cb47/GEC_Palakkad/res/thubLogo.png"/>
 # Github Workshop
 
-by TinkerHub GEC Palakkad
+## by TinkerHub GEC Palakkad
 
 ## Forking this repo
 
 This creates a copy of this repo to your github account.
 
+
 <img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/fork.png" alt="fork this repository" />
+
 
 ## Cloning the repo
 
 Now click on the "Code" and then copy the link.
 
+
 <img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/cloneCode.png"/>
+
 
 And copy the link
 
+
 <img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/clone.png"/>
+
 
 And then open the terminal and run the command.
 
@@ -70,12 +75,22 @@ Go to the repo in your github account.
 
 Click on contribute.
 
+
 <img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/contribute.png"/>
+
 
 And then click on "Open pull request"
 
+
 <img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/open.png"/>
+
 
 Then on "Create pull request"
 
+
 <img align="center" src="https://github.com/TinkerHub-GEC-Palakkad/mashithandu/blob/a79576c62c74c2de8d72be5fbab1f6afec4395e7/GEC_Palakkad/res/cpr.png"/>
+
+
+## Kudos!
+
+Congratulations, you have successfully created your first Pull request. The pr will be reviewed and merged shortly.
